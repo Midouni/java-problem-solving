@@ -1,6 +1,4 @@
 package com.midouni.leetcode.twoSum;
-
-
 import java.util.HashMap;
 
 
